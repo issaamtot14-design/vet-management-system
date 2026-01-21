@@ -2,7 +2,6 @@
 |		2025_04_11_16_00_00					  |
 |		University Of Roehampton				  |
 |		Student 001: Issa Amtot/A0015038			  |
-|		Student 002: Ali Ganji/GAN23599848                        |
 ===========================================================================
 |                     Veterinary Management System                        |
 ===========================================================================
@@ -124,3 +123,4 @@ and distributed freely.
 
 Acknowledgments
 Developed as an educational project for demonstrating C++ OOP principles
+
