@@ -1,13 +1,27 @@
 ===========================================================================
-|		2025_04_11_16_00_00					  |
+|		2025_04_11_16_00_00					      |
 |		University Of Roehampton				  |
-|		Student 001: Issa Amtot/A0015038			  |
+|		Student 001: Issa Amtot/A0015038	|
 ===========================================================================
 |                     Veterinary Management System                        |
 ===========================================================================
 A C++ console application designed for managing veterinary clinic operations
 including patients, appointments, and customer records.
 ===========================================================================
+## How to Run
+
+### Option 1: Visual Studio (Windows)
+1. Open `modular_code.vcxproj`
+2. Build and run
+
+### Option 2: Manual Compilation
+Compile using any C++ compiler, for example:
+
+```bash
+g++ *.cpp -o vet_system
+```
+===========================================================================
+
 Overview
 
 The Veterinary Management System (VMS) is a solution for veterinary clinics 
@@ -123,4 +137,5 @@ and distributed freely.
 
 Acknowledgments
 Developed as an educational project for demonstrating C++ OOP principles
+
 
